@@ -3,6 +3,7 @@ library(xml2)
 library(XML)
 library(stringr)
 library(readr)
+library(readr)
 
 Distance_Data <- read_csv("Distance_Data.csv")
 View(Distance_Data)
